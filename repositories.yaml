@@ -296,7 +296,7 @@ categories:
           - url: https://github.com/hashgraph-online/hashnet-mcp
             description: Official MCP server for the Hashgraph Online agent registry - agent discovery, registration, encrypted P2P communication
           - url: https://github.com/Data-Everything/mcp-server-templates
-            description: MCP templates for Docker, Kubernetes, CLI, and HTTP
+            description: Docker, Kubernetes, CLI, and HTTP MCP templates
           - url: https://github.com/mintmcp/servers
           - url: https://github.com/VeyraX/veyrax-mcp
             description: VeyraX unified tool access via single MCP
@@ -397,7 +397,7 @@ categories:
       - url: https://github.com/MladenSU/cli-mcp-server
         description: CLI with secure execution and custom policies
       - url: https://github.com/OthmaneBlial/term_mcp_deepseek
-        description: Approve terminal commands after risk and permission checks
+        description: Approve terminal commands after risk and access checks
       - url: https://github.com/ooples/mcp-console-automation
         description: MCP for AI-driven console automation and monitoring
       - url: https://github.com/sonirico/mcp-shell
