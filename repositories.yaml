@@ -520,6 +520,7 @@ categories:
           - url: https://github.com/Nebula-Block-Data/nebulablock-mcp-server
           - url: https://github.com/pibblokto/cert-manager-mcp-server
           - url: https://github.com/pythonanywhere/pythonanywhere-mcp-server
+            description: Manage PythonAnywhere files, apps, and tasks
           - url: https://github.com/qiniu/qiniu-mcp-server
             description: Qiniu Cloud storage, CDN, and media processing
           - url: https://github.com/redis/mcp-redis-cloud
@@ -599,6 +600,7 @@ categories:
           - url: https://github.com/vfarcic/dot-ai
             description: Deploy apps to any Kubernetes cluster
           - url: https://github.com/kubesphere/ks-mcp-server
+            description: KubeSphere APIs for workspaces, clusters, users, and roles
           - url: https://github.com/kubestellar/console
             description: AI-powered multi-cluster Kubernetes dashboard with MCP server (kc-agent) for natural language operations
       - name: Virtualization & IaC
@@ -798,6 +800,7 @@ categories:
           - url: https://github.com/flowcore-io/mcp-flowcore-platform
           - url: https://github.com/JordiNeil/mcp-databricks-server
           - url: https://github.com/yashshingvi/databricks-genie-MCP
+            description: Ask Databricks Genie questions and run SQL queries
           - url: https://github.com/Peliqan-io/mcp-server-peliqan
           - url: https://github.com/Verodat/verodat-mcp-server
           - url: https://github.com/BauplanLabs/bauplan-mcp-server
@@ -807,6 +810,7 @@ categories:
           - url: https://github.com/ognis1205/mcp-server-unitycatalog
           - url: https://github.com/reltio-ai/reltio-mcp-server
           - url: https://github.com/datumnova/ms-fabric-mcp
+            description: Microsoft Fabric workspaces, lakehouses, and PySpark notebooks
       - name: Jupyter & Notebooks
         repos:
           - url: https://github.com/datalayer/jupyter-mcp-server
@@ -1001,6 +1005,7 @@ categories:
           - url: https://github.com/arturborycki/mcp-teradata
           - url: https://github.com/nolleh/mcp-vertica
           - url: https://github.com/aliyun/alibabacloud-adbpg-mcp-server
+            description: AnalyticDB PostgreSQL metadata and SQL operations
       - name: Search Engines
         repos:
           - url: https://github.com/fredac100/elasticsearch-memory-mcp
@@ -1272,6 +1277,7 @@ categories:
             description: Starwind UI for Cursor and Windsurf
           - url: https://github.com/kapilduraphe/webflow-mcp-server
           - url: https://github.com/smartzan63/lucid-mcp-server
+            description: Search, export, and create Lucid charts and diagrams
           - url: https://github.com/gaganmanku96/talk-with-figma-claude
       - name: Diagrams
         repos:
@@ -1631,6 +1637,7 @@ categories:
         description: AI predictive maintenance and fault diagnosis via MCP
       - url: https://github.com/SpaceyKasey/TcpSocketMCP
       - url: https://github.com/nokia/mcp-redfish
+        description: Query DMTF Redfish servers, systems, and network interfaces
       - url: https://github.com/recursechat/mcp-server-apple-shortcuts
         description: Apple Shortcuts automation on macOS
       - url: https://github.com/FradSer/mcp-server-apple-events
@@ -1808,6 +1815,7 @@ categories:
           - url: https://github.com/bitnovo/mcp-bitnovo-pay
           - url: https://github.com/ChainAware/behavioral-prediction-mcp
           - url: https://github.com/CoinStatsHQ/coinstats-mcp
+            description: Crypto prices, portfolios, and wallets via CoinStats
           - url: https://github.com/noditlabs/nodit-mcp-server
             description: Blockchain data via Nodit Web3 API
           - url: https://github.com/verbwire/verbwire-mcp-server
@@ -2256,6 +2264,7 @@ categories:
           - url: https://github.com/pranav-deshmukh/blender-mcp
             description: Blender 3D modeling integration
           - url: https://github.com/junmer/mcp-server-lottiefiles
+            description: Search and retrieve Lottie animations from LottieFiles
           - url: https://github.com/wilsonchenghy/ShaderToy-MCP
             description: Create and explore GLSL shaders on ShaderToy
       - name: Audio & Music
@@ -2407,6 +2416,7 @@ categories:
       - url: https://github.com/dash0hq/mcp-dash0
       - url: https://github.com/digma-ai/digma-mcp-server
       - url: https://github.com/gologinapp/gologin-mcp
+        description: Manage GoLogin browser profiles, proxies, and fingerprints
       - url: https://github.com/ahnopologetic/canvas-lms-mcp
       - url: https://github.com/emicklei/mcp-log-proxy
       - url: https://github.com/inkbytefo/screenmonitormcp
@@ -2870,6 +2880,7 @@ categories:
           - url: https://github.com/Linked-API/linkedapi-mcp
             description: LinkedIn account control and data retrieval
           - url: https://github.com/parallel-web/task-mcp
+            description: Hosted deep research and dataset enrichment via Parallel
           - url: https://github.com/r-huijts/opentk-mcp
             description: MCP server for Dutch parliamentary data via OpenTK
           - url: https://github.com/serkan-ozal/driflyte-mcp-server
@@ -3236,6 +3247,7 @@ categories:
   - name: Translation
     repos:
       - url: https://github.com/mmntm/weblate-mcp
+        description: Manage Weblate projects, components, and translations
       - url: https://github.com/translated/lara-mcp
         description: Lara Translate API with language detection
       - url: https://github.com/rae-api-com/rae-mcp
@@ -3249,6 +3261,7 @@ categories:
   - name: Travel & Transport
     repos:
       - url: https://github.com/campertunity/mcp-server
+        description: Search campgrounds, check availability, and book campsites
       - url: https://github.com/cobanov/teslamate-mcp
         description: MCP server for TeslaMate vehicle data and analytics
       - url: https://github.com/KyrieTangSheng/mcp-server-nationalparks
