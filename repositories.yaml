@@ -285,6 +285,8 @@ categories:
           - url: https://github.com/apache/apisix
           - url: https://github.com/universal-mcp/universal-mcp
             description: Middleware for API applications
+          - url: https://github.com/k2so-dev/junctio
+            description: Self-hosted gateway with API key or OAuth downstream auth and upstream token refresh
       - name: Platforms & Registries
         repos:
           - url: https://github.com/julien040/anyquery
