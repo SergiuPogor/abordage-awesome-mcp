@@ -2313,6 +2313,8 @@ categories:
           - url: https://github.com/AIDC-AI/Pixelle-MCP
             description: Multimodal AIGC with ComfyUI + MCP
           - url: https://github.com/8beeeaaat/touchdesigner-mcp
+          - url: https://github.com/dylanroscover/Embody
+            description: TouchDesigner MCP server with 70 tools and diffable network export
           - url: https://github.com/DeemosTech/rodin-api-mcp
           - url: https://github.com/pranav-deshmukh/blender-mcp
             description: Blender 3D modeling integration
