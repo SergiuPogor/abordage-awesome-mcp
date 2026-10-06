@@ -2680,6 +2680,8 @@ categories:
             description: Zettelkasten notes with search, links, CLI, API, and web
           - url: https://github.com/gornskew/lisply-mcp
             description: Manage Lisply lisp-speaking backends
+          - url: https://github.com/LAHutchins91/continuity-mcp
+            description: Story bible for fiction writers that AI assistants read before writing
       - name: Notion
         repos:
           - url: https://github.com/Badhansen/notion-mcp
