@@ -3294,6 +3294,8 @@ categories:
         description: MCP server for professional cycling data from FirstCycling
       - url: https://github.com/r-huijts/strava-mcp
         description: Strava fitness data integration
+      - url: https://github.com/hahahahahahahahah6/fitlog-mcp
+        description: Self-hosted MCP server giving Alexa+ a memory for training: voice set logging, PRs, workout plans; stdlib-only, MIT
       - url: https://github.com/RobSpectre/mvf1
         description: Python package and CLI for MultiViewer For F1
       - url: https://github.com/willvelida/mcp-afl-server
