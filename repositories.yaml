@@ -3370,6 +3370,8 @@ categories:
       - url: https://github.com/mfukushim/map-traveler-mcp
       - url: https://github.com/trackmage/trackmage-mcp-server
       - url: https://github.com/negm17111995/mcp-server
+      - url: https://github.com/sky-access/skyaccess-mcp
+        description: Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key.
   - name: Web Scraping
     repos:
       - url: https://github.com/olostep/olostep-mcp-server
