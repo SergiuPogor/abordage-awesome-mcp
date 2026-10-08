@@ -2557,6 +2557,8 @@ categories:
           - url: https://github.com/syucream/holaspirit-mcp-server
           - url: https://github.com/macrat/mcp-server-kintone
           - url: https://github.com/adepanges/teamretro-mcp-server
+          - url: https://github.com/tale-project/tale
+            description: Built-in HTTP MCP for organizational knowledge and automation authoring, tests, deployments, and runs.
       - name: Documents
         repos:
           - url: https://github.com/Wooonster/hocr_mcp_server
