@@ -1930,6 +1930,8 @@ categories:
           - url: https://github.com/financial-datasets/mcp-server
             description: Financial Datasets stock market API
           - url: https://github.com/stefanoamorelli/sec-edgar-mcp
+          - url: https://github.com/daniel3303/Equibles
+            description: SEC filings, fundamentals, transcripts, 13F and insider data
           - url: https://github.com/shenqingtech/deepq-financial-toolkit-mcp-server
           - url: https://github.com/lambda-capture/mcp-server
           - url: https://github.com/OctagonAI/octagon-vc-agents
