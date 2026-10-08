@@ -2930,6 +2930,10 @@ categories:
             description: Zotero collections for Claude Desktop
           - url: https://github.com/connerlambden/bgpt-mcp
             description: Search scientific papers with structured experimental data from full-text studies
+          - url: https://github.com/LAHutchins91/papers-mcp
+            description: Papers by Ouroboros Apps - research paper search with real citations and reference formatting
+          - url: https://github.com/LAHutchins91/patent-mcp
+            description: Patent by Ouroboros Apps - USPTO patent search and prior art lookup
       - name: Data APIs
         repos:
           - url: https://github.com/0xDAEF0F/job-searchoor
