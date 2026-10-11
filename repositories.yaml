@@ -33,6 +33,8 @@ categories:
             description: MCP server for multiverse context management
           - url: https://github.com/contextstream/mcp-server
             description: Shared project context for AI coding agents across MCP clients
+          - url: https://github.com/archcore-ai/archcore
+            description: Git-native context engineering and spec-driven development for AI coding agents
       - name: Human-in-the-Loop
         repos:
           - url: https://github.com/ttommyth/interactive-mcp
