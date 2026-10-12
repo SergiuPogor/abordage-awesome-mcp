@@ -773,6 +773,8 @@ categories:
           - url: https://github.com/0xshellming/mcp-summarizer
       - name: Data APIs
         repos:
+          - url: https://github.com/estevecastells/invokely-mcp-connector
+            description: MIT-licensed local stdio adapter for official statistics through Invokely's hosted MCP; hosted backend code is not included.
           - url: https://github.com/davidf9999/gx-mcp-server
           - url: https://github.com/jwaxman19/qlik-mcp
           - url: https://github.com/Coresignal-com/coresignal-mcp
