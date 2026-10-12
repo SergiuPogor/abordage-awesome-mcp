@@ -1350,6 +1350,8 @@ categories:
             description: Microsoft Learn MCP for LLMs
           - url: https://github.com/kimsungwhee/apple-docs-mcp
             description: Apple Developer Documentation search
+          - url: https://github.com/mishafyi/Apple-Docs-2.0-MCP
+            description: Apple developer documentation, HIG and WWDC sessions with code, plus an offline index of 336,629 pages
           - url: https://github.com/andrea9293/mcp-documentation-server
             description: Document management with Gemini
           - url: https://github.com/clix-so/clix-mcp-server
