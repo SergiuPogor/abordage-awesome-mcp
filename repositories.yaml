@@ -2541,6 +2541,8 @@ categories:
         description: Local observability for agent sessions, tools, and costs
       - url: https://github.com/ntk148v/alertmanager-mcp-server
         description: MCP server for Prometheus Alertmanager integration
+      - url: https://github.com/fclairamb/solidping
+        description: Self-hostable uptime monitor with a built-in MCP server for checks, incidents and status pages
   - name: Productivity
     subcategories:
       - name: Atlassian
