@@ -2572,6 +2572,8 @@ categories:
             description: Jira and Confluence integration
           - url: https://github.com/KS-GEN-AI/confluence-mcp-server
           - url: https://github.com/masna-ai/mcp-confluence-server
+          - url: https://github.com/GeiserX/atlassian-browser-mcp
+            description: Jira and Confluence Server/Data Center behind SSO via browser login
       - name: Collaboration
         repos:
           - url: https://github.com/boldsign/boldsign-mcp
