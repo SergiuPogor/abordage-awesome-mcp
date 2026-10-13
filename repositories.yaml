@@ -1476,6 +1476,8 @@ categories:
             description: MCP server for iOS Simulator control
           - url: https://github.com/hitSlop/shots
             description: App Store screenshot, app icon, ASO, and localization workflows for mobile app developers
+          - url: https://github.com/ateymoori/oh-my-android
+            description: macOS app with MCP server to drive the Android Emulator and phones
       - name: OpenAPI
         repos:
           - url: https://github.com/bbonnin/openapi-to-mcp
