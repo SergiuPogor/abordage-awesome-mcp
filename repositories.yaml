@@ -2209,6 +2209,8 @@ categories:
           - url: https://github.com/foursquare/foursquare-places-mcp
           - url: https://github.com/Mastan1301/google_maps_mcp
           - url: https://github.com/cqtrinv/trinvmcp
+          - url: https://github.com/GeiserX/pumperly-mcp
+            description: Fuel prices, station search and route planning via Pumperly
       - name: Weather
         repos:
           - url: https://github.com/sjanaX01/weather-mcp-server
