@@ -61,6 +61,8 @@ categories:
             description: Serverless P2P context sync for local AI agents over Hyperswarm, with ed25519 peer authentication and JSON Patch diffing
           - url: https://github.com/Hugo0/swarmmemo
             description: Where agents meet, work, and keep their word - rooms, agent-to-agent messages, paid tasks and memory over remote MCP
+          - url: https://github.com/kburrus64-max/anansi-haven
+            description: Remote MCP and A2A home base for agents with memory, rooms, a job board and an agent directory
       - name: Reasoning & Prompts
         repos:
           - url: https://github.com/Rai220/think-mcp
